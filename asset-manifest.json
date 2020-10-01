@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/drishya-task/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/drishya-task/static/js/main.144e9bd1.chunk.js",
-    "main.js.map": "/drishya-task/static/js/main.144e9bd1.chunk.js.map",
+    "main.js": "/drishya-task/static/js/main.2e72b2c5.chunk.js",
+    "main.js.map": "/drishya-task/static/js/main.2e72b2c5.chunk.js.map",
     "runtime-main.js": "/drishya-task/static/js/runtime-main.ba61f17f.js",
     "runtime-main.js.map": "/drishya-task/static/js/runtime-main.ba61f17f.js.map",
     "static/js/2.9877c58f.chunk.js": "/drishya-task/static/js/2.9877c58f.chunk.js",
     "static/js/2.9877c58f.chunk.js.map": "/drishya-task/static/js/2.9877c58f.chunk.js.map",
     "index.html": "/drishya-task/index.html",
-    "precache-manifest.ce5e37882befbf1562545dc2a8a341d0.js": "/drishya-task/precache-manifest.ce5e37882befbf1562545dc2a8a341d0.js",
+    "precache-manifest.0cb62dec51f1cb7f859229e4619244c5.js": "/drishya-task/precache-manifest.0cb62dec51f1cb7f859229e4619244c5.js",
     "service-worker.js": "/drishya-task/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/drishya-task/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.9877c58f.chunk.js.LICENSE.txt": "/drishya-task/static/js/2.9877c58f.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.ba61f17f.js",
     "static/js/2.9877c58f.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.144e9bd1.chunk.js"
+    "static/js/main.2e72b2c5.chunk.js"
   ]
 }

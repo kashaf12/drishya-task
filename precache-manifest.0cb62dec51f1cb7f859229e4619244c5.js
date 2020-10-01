@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "422545be50cda33b3086ab35cbdabc38",
+    "revision": "68969d78f32aa075ecaf6515d95b9883",
     "url": "/drishya-task/index.html"
   },
   {
-    "revision": "f54325f03b4cff05b3a4",
+    "revision": "2bc2a03c9cba7fed0281",
     "url": "/drishya-task/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/drishya-task/static/js/2.9877c58f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f54325f03b4cff05b3a4",
-    "url": "/drishya-task/static/js/main.144e9bd1.chunk.js"
+    "revision": "2bc2a03c9cba7fed0281",
+    "url": "/drishya-task/static/js/main.2e72b2c5.chunk.js"
   },
   {
     "revision": "f1090cc26e05289a6f29",
