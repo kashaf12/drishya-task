@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/drishya-task/precache-manifest.ce5e37882befbf1562545dc2a8a341d0.js"
+  "/drishya-task/precache-manifest.f6847461cca784c8db6bd8df0e0592b5.js"
 );
 
 self.addEventListener('message', (event) => {
