@@ -79,7 +79,7 @@ const useStyles = makeStyles((theme) => ({
 		},
 	},
 	navBar: {
-		backgroundColor: "red",
+		backgroundColor: "#242729",
 		margin: 0,
 		padding: 0,
 		alignContent: "center",
