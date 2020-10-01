@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "74744531d137b1ee8f889ded3f584dfd",
+    "revision": "6704e1b71ce8a0ea9b40ba2f25501784",
     "url": "/drishya-task/index.html"
   },
   {
-    "revision": "266f90904dcc11bb7108",
+    "revision": "091e44a3674204c4f9f3",
     "url": "/drishya-task/static/css/main.5ecd60fb.chunk.css"
   },
   {
-    "revision": "f4e5746659f114c015bf",
-    "url": "/drishya-task/static/js/2.2628b844.chunk.js"
+    "revision": "6773e448ab25ba60dd38",
+    "url": "/drishya-task/static/js/2.9877c58f.chunk.js"
   },
   {
     "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/drishya-task/static/js/2.2628b844.chunk.js.LICENSE.txt"
+    "url": "/drishya-task/static/js/2.9877c58f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "266f90904dcc11bb7108",
-    "url": "/drishya-task/static/js/main.629f4a2c.chunk.js"
+    "revision": "091e44a3674204c4f9f3",
+    "url": "/drishya-task/static/js/main.29bcc5ee.chunk.js"
   },
   {
     "revision": "f1090cc26e05289a6f29",
